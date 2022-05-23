@@ -1,0 +1,36 @@
+.nav_list{
+    text-align-last: right;
+    margin-top: 10px;
+    color: black;
+    list-style: none;
+    padding: 0px;
+    background-color: rgb(247, 239, 239);
+
+}
+
+.nav_list__item{
+    margin: 3px;
+    padding: 3px;
+    display: inline-block;
+    background-color: beige;
+    border-radius: 7px;
+}
+.contenedor{
+    size: 1860px;
+    margin-top: 60px;
+    text-align: center;
+}
+
+.content2{
+    text-align: justify;
+    
+}
+.main_title{
+    text-align: center;
+    color:blue;
+    text-decoration: blue;
+    
+}
+.main_parraf{
+    text-size-adjust: 30px;
+}
