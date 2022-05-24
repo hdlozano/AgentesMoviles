@@ -39,7 +39,10 @@ header nav a:hover {
 	background:#f56f3a;
 	border-radius:50px;
 }
-
+main{
+    background-color: beige;
+    padding: 3px;
+}
 .contenedor{
     size: 1860px;
     margin-top: 60px;
