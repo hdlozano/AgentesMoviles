@@ -99,7 +99,7 @@ footer nav ul li h3 a {
 }
 
 footer nav ul li h3 :hover{
-	pading: 3px;
+	padding: 5px;
 	text-decoration: none;
 	background:#f56f3a;
 	border-radius: 50px;
