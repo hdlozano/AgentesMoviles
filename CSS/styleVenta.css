@@ -98,7 +98,7 @@ footer nav ul li h3 a {
   color: #fff;
 }
 
-footer nav ul li h3 :hover{
+footer label  h3 :hover{
 	padding: 5px;
 	text-decoration: none;
 	background:#f56f3a;

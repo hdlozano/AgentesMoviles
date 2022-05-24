@@ -88,11 +88,12 @@ footer label{
 }
 
 footer label h3 a{
+    text-decoration: none;
     margin-right: 150px;
     color: #fff;
 }
 
-footer label h3 a :hover{
+footer div label h3:hover{
     padding: 5px;
 	text-decoration: none;
 	background:#f56f3a;
