@@ -34,3 +34,16 @@
 .main_parraf{
     text-size-adjust: 30px;
 }
+
+.final{
+    margin-top: 10px;
+    color: black;
+    list-style: none;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    background-color: rgb(247, 239, 239);
+}
+.final_title{
+    
+    text-align: right;
+}
