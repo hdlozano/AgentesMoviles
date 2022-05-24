@@ -1,20 +1,45 @@
-.nav_list{
-    text-align-last: right;
-    margin-top: 10px;
-    color: black;
-    list-style: none;
-    padding: 0px;
-    background-color: rgb(247, 239, 239);
+header {
+    width:100%; /* Establecemos que el header abarque el 100% del documento */
+	overflow:hidden; /* Eliminamos errores de float */
+	background:#252932;
+    margin-bottom:20px;
 
 }
 
-.nav_list__item{
-    margin: 3px;
-    padding: 3px;
-    display: inline-block;
-    background-color: beige;
-    border-radius: 7px;
+.wrapper {
+	width:90%; /* Establecemos que el ancho sera del 90% */
+	max-width:1000px; /* Aqui le decimos que el ancho máximo sera de 1000px */
+	margin:auto; /* Centramos los elementos */
+	overflow:hidden; /* Eliminamos errores de float */
 }
+
+header .logo {
+	color:#f2f2f2;
+	font-size:50px;
+	line-height:100px;
+	float:left;
+}
+
+header nav {
+
+    padding-top: 30px;
+}
+header nav a {
+    
+	display:inline-block;
+	color:#fff;
+	text-decoration:none;
+	padding:10px 20px;
+	line-height:normal;
+	font-size:20px;
+	font-weight:bold;
+}
+
+header nav a:hover {
+	background:#f56f3a;
+	border-radius:50px;
+}
+
 .contenedor{
     size: 1860px;
     margin-top: 60px;
