@@ -84,6 +84,23 @@ footer nav li {
   margin-right: 150px;
 }
 
+footer nav ul li{
+	padding: 3px;
+	text-decoration: none;
+}
+footer nav ul li h3{
+	padding: 3px;
+	text-decoration: none;
+}
+
 footer nav ul li h3 a {
+	text-decoration: none;
   color: #fff;
 }
+
+footer nav ul li h3 :hover{
+	pading: 3px;
+	text-decoration: none;
+	background:#f56f3a;
+	border-radius: 50px;
+  }
